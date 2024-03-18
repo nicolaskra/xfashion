@@ -2,7 +2,7 @@
 * Dashboard comercial - desafio Xperium Case:
  ![image](https://github.com/nicolaskra/xfashion/assets/144272226/617f093e-2519-4cfa-b3f4-75978575181f)
 
-
+# Link dashboard https://app.powerbi.com/view?r=eyJrIjoiMGQzMGYyMjgtODczZi00MzA5LWExNDUtNGE3NWI5NTAyYzMzIiwidCI6IjM1ZmZkMDk1LTM4MWQtNDA3MC1hOGM1LTIwOGJhYzgzNTMwOSJ9&pageName=ReportSection
 
 * Ápos importar os arquivos que estavam em formato CSV, foi observado que estavam praticamente todos prontos para serem utilizados, já com uma tabela Fato e as dimensões bem organizadas, apenas sendo necessário alguns ajustes na dCalendario para criar o contexto de TriAno e MêsAno.
 
@@ -13,6 +13,8 @@
 * Também criei novas tabelas manuais para criar seletor de medidas dinamicos permitindo assim uma análise mais completa e totalmente dinamica.
 
   ![image](https://github.com/nicolaskra/xfashion/assets/144272226/21d5f43a-4e36-476b-9c1d-0166069acc7f)
+
+
 
 
 # Medidas DAX
